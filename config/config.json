@@ -1,7 +1,7 @@
 {
   "development": {
-    "username": "nodeuser",
-    "password": "",
+    "username": "root",
+    "password": "cat123",
     "database": "project2",
     "host": "127.0.0.1",
     "dialect": "mysql"
