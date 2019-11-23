@@ -15,6 +15,7 @@ Demo video: https://sharryheb.github.io/img/Demo.webm
 3. Enter your preferred dates of travel, and the airport from which you will depart
 4. Click "Submit"
 5. On the next page you will see a list of destinations that are recommended for your chosen activity, on your chosen dates. 
+6. Click on the "Fare Trend" button next to a particular fare to see the fare trend for the past 2 weeks. A recommendation to Buy Now, Wait, or Buy Soon is also displayed based on the trends for that fare.
 
 ## Tech Used
 Javascript/jQuery  
@@ -24,4 +25,5 @@ Express
 MVC architecture  
 Routing  
 axios  
+Google Charts  
 Sabre API  
