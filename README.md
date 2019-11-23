@@ -3,7 +3,7 @@
 This is a travel and flight planning app, which takes a theme input that the user chooses from a set list, and finds travel destinations relating to that theme. When the clients submit their inputs on the homepage, the app will display the top 5 ideal destinations with the lowest airfare.
 
 ## NOTE!!
-This app requires a Sabre API token, which expires after 7 days. If you would like to see this app working, please contact me to get the demo working.
+This app requires a Sabre API token, which expires after 7 days. If you would like to see this app working, please contact me to get the demo working, but there is also a link to a video below showing how it works.
 
 Deployed at: https://ssvtravel.herokuapp.com/
 
