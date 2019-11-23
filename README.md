@@ -1,14 +1,27 @@
-# Project2
-# SSV -Travel Planning 
+# SSV Travel
 
-This is a trip planning app, which is named after all 3 contributors' initials: Sarah, Sharry and Viktoriya. The theme-based app would help clients search for the ideal destinations with the lowest airfare. 
+This is a travel and flight planning app, which takes a theme input that the user chooses from a set list, and finds travel destinations relating to that theme. When the clients submit their inputs on the homepage, the app will display the top 5 ideal destinations with the lowest airfare.
 
-The user needs to choose from the drop-down list "what would you like to do?", along with the departure/return dates and the "flying from" airport.
-
-When the clients submit their inputs on the homepage, the app will automatically redirect to the destination page, which provides the top 5 ideal destinations with the lowest airfare.
-
-We use the test token for SABRE APIs, which is free but expires after 7 days. To get a new one, please refer to .sabreInstructions (https://github.com/sharryheb/app-ssv2/blob/master/.sabreInstructions)
+## NOTE!!
+This app requires a Sabre API token, which expires after 7 days. If you would like to see this app working, please contact me to get the demo working.
 
 Here is our deployed link: https://ssvtravel.herokuapp.com/
 
 To see how it works: https://drive.google.com/file/d/1Zg88n38UPr9dDh-R0jZaPKK05mpzTFFr/view
+
+## Instructions
+1. Go to https://ssvtravel.herokuapp.com/
+2. Choose a theme from the dropdown list
+3. Enter your preferred dates of travel, and the airport from which you will depart
+4. Click "Submit"
+5. On the next page you will see a list of destinations that are recommended for your chosen activity, on your chosen dates. 
+
+## Tech Used
+Javascript/jQuery
+Bootstrap
+Node
+Express
+MVC architecture
+Routing
+axios
+Sabre API
