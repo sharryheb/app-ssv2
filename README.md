@@ -17,11 +17,11 @@ To see how it works: https://drive.google.com/file/d/1Zg88n38UPr9dDh-R0jZaPKK05m
 5. On the next page you will see a list of destinations that are recommended for your chosen activity, on your chosen dates. 
 
 ## Tech Used
-Javascript/jQuery
-Bootstrap
-Node
-Express
-MVC architecture
-Routing
-axios
-Sabre API
+Javascript/jQuery  
+Bootstrap  
+Node  
+Express  
+MVC architecture  
+Routing  
+axios  
+Sabre API  
