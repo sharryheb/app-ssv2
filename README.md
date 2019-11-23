@@ -5,9 +5,9 @@ This is a travel and flight planning app, which takes a theme input that the use
 ## NOTE!!
 This app requires a Sabre API token, which expires after 7 days. If you would like to see this app working, please contact me to get the demo working.
 
-Here is our deployed link: https://ssvtravel.herokuapp.com/
+Deployed at: https://ssvtravel.herokuapp.com/
 
-Here is a demo video: https://sharryheb.github.io/img/Demo.webm
+Demo video: https://sharryheb.github.io/img/Demo.webm
 
 ## Instructions
 1. Go to https://ssvtravel.herokuapp.com/
