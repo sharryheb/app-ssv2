@@ -8,6 +8,7 @@ This app requires a Sabre API token, which expires after 7 days. If you would li
 Here is our deployed link: https://ssvtravel.herokuapp.com/
 
 To see how it works: https://drive.google.com/file/d/1Zg88n38UPr9dDh-R0jZaPKK05mpzTFFr/view
+![Demo](Demo.webm)
 
 ## Instructions
 1. Go to https://ssvtravel.herokuapp.com/
